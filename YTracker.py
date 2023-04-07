@@ -28,3 +28,4 @@ class YandexTracker:
             return response.json()['issues']
         else:
             raise Exception(f'Error {response.status_code}: {response.text}')
+        
