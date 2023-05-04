@@ -7,9 +7,9 @@ from YTracker import get_tasks
 from config import token, org_id
 
 
-API_TOKEN = '6288779400:AAFePgTMYyX4VXkW_vy7M0DgS3NssyeW6V0'
-YT_TOKEN = 'y0_AgAEA7qkTh9GAAmiCQAAAADgJZzI04rcQCkcS7qz7waC54-cSn3nbCQ'
-YT_USER_ID = '1130000062226246'
+API_TOKEN = 'hidden'
+YT_TOKEN = 'hidden'
+YT_USER_ID = 'hidden'
 
 # Configure bot here
 bot = Bot(token=API_TOKEN)
